@@ -1,3 +1,3 @@
-# PythonRageGame
-This is a python Rage game which involves clicking a button (gotta see it for yourself!) 
+# Click The Button!
+Click the Button! - A fun and interesting game made using only Python and Tkinter!
 © THEOP05, 2021 - 2023
